@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1040550222815",
+    "firebase_url": "https://smartintercom-6cdc3.firebaseio.com",
+    "project_id": "smartintercom-6cdc3",
+    "storage_bucket": "smartintercom-6cdc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040550222815:android:f7fb2d7a8efc2c141f826a",
+        "android_client_info": {
+          "package_name": "com.example.smartintercom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040550222815-c9hk4dprin45c4pjpbakl65f9og09vnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartintercom",
+            "certificate_hash": "313770013244335ebb468d0c2d092c5ba5f75cfc"
+          }
+        },
+        {
+          "client_id": "1040550222815-eo93hke4uc6ub5ue9r2ndailtke2cm8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkONu2HOviCybH589hskJxQY2-5tBGBzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040550222815-eo93hke4uc6ub5ue9r2ndailtke2cm8m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
